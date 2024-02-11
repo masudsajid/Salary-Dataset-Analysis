@@ -1,4 +1,12 @@
 # Salary Dataset Analysis
+## Table of contents :clipboard:
+1. [Introduction] (https://github.com/masudsajid/Salary-Dataset-Analysis/edit/main/README.md#salary-dataset-analysis)
+3. Understanding the dataset
+4. Problem statement
+5. Skill/ concepts demonstrated
+6. Modelling
+7. Data cleaning in RStudio
+8. Power BI Dashboard
 
 ![](mainpage.PNG)
 
