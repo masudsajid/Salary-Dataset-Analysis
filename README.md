@@ -3,7 +3,7 @@
 1. [Introduction](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#introduction)
 3. [Understanding the dataset](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#understanding-the-dataset)
 4. [Problem statement](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#problem-statement)
-5. [Skill/ concepts demonstrated](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#skill/-concepts-demonstrated)
+5. [Skill/ concepts demonstrated](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#skill//-concepts-demonstrated)
 6. [Modelling](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#modelling)
 7. [Data cleaning in RStudio](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#data-cleaning-in-rstudio)
 8. [Power BI Dashboard](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#power-bi-dashboard)
