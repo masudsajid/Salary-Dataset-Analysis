@@ -1,6 +1,6 @@
 # Salary Dataset Analysis
 ## Table of contents :clipboard:
-1. [Introduction](https://github.com/masudsajid/Salary-Dataset-Analysis/edit/main/README.md#salary-dataset-analysis)
+1. [Introduction](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#introduction)
 3. [Understanding the dataset](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#understanding-the-dataset)
 4. [Problem statement](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#problem-statement)
 5. [Skill/ concepts demonstrated](https://github.com/masudsajid/Salary-Dataset-Analysis/blob/main/README.md#skill/-concepts-demonstrated)
