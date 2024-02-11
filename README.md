@@ -37,3 +37,8 @@ Before gettings my hands into the data, I like to create a prototype of how the 
 
 ## Data cleaning in RStudio
 ![](datacleaning.PNG)
+First action was to pull data from the live google form. I took the following steps to make the dataset analysable:
+- Typecasting
+- Removing null rows
+- Due to ree text option in _Industry_ column, same industry name was mention in different ways like _library_, _libraries_ or _Ed Tech_, _edtech_. To eliminate this problem, I designed the following algorithm in R:
+  
