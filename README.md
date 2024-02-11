@@ -49,3 +49,8 @@ First action was to pull data from the live google form. I took the following st
   - made 2 new variables, _i_ and _j_ for 2 loops
   - _i_ is the row number of the first new discovered value (in industry column), and _j_ starts from just below it. The variable _k_ check till where the words are same, then from _word1_ to _k_ is concatenated and put into _category_ column and the rest into _subcategory_
   ![](industryalgo.png)
+- Made all values in _country_ column into "USA" where _state_ was not null.
+- Some other countries were also written in different fomrs like _UK_, _united Kingdom_ etc. These names were handled manually.
+- Rows were removed where the currency was other. This was done to keep only the most used currency rows which would make it easier to covert into a single metric (USD).
+- Some _income_ values were very unrealistic. To remove such rows, a new column _standard deviation_ was made. The rows were filtered out where value is more than 3 times the _standard deviation_.
+  
