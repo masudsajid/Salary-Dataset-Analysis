@@ -1,4 +1,4 @@
-# Salary-Dataset-Analysis
+# Salary Dataset Analysis
 
 ![](mainpage.PNG)
 
