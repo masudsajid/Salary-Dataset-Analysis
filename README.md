@@ -48,4 +48,4 @@ First action was to pull data from the live google form. I took the following st
   - separate all words based on space and put all individual words in _word1_ to _word4_ columns
   - made 2 new variables, _i_ and _j_ for 2 loops
   - _i_ is the row number of the first new discovered value (in industry column), and _j_ starts from just below it. The variable _k_ check till where the words are same, then from _word1_ to _k_ is concatenated and put into _category_ column and the rest into _subcategory_
-  
+  ![](industryalgo.png)
