@@ -41,4 +41,11 @@ First action was to pull data from the live google form. I took the following st
 - Typecasting
 - Removing null rows
 - Due to ree text option in _Industry_ column, same industry name was mention in different ways like _library_, _libraries_ or _Ed Tech_, _edtech_. To eliminate this problem, I designed the following algorithm in R:
+  - made 6 new columns, _word1_, _word2_, _word3_, _word4_, _category_ and _subcategory_ (the max number of words in a row was 4)
+  - sort the dataset by _industry_, A-Z
+  - make all values in lowercase
+  - remove all characters other than alphabets
+  - separate all words based on space and put all individual words in _word1_ to _word4_ columns
+  - made 2 new variables, _i_ and _j_ for 2 loops
+  - _i_ is the row number of the first new discovered value (in industry column), and _j_ starts from just below it. The variable _k_ check till where the words are same, then from _word1_ to _k_ is concatenated and put into _category_ column and the rest into _subcategory_
   
