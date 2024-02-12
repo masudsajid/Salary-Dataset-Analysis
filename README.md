@@ -63,12 +63,12 @@ First action was to pull data from the live google form. I took the following st
 - Rows were removed where the currency was other. This was done to keep only the most used currency rows which would make it easier to covert into a single metric (USD).
 - Some _income_ values were very unrealistic. To remove such rows, a new column _standard deviation_ was made. The rows were filtered out where value is more than 3 times the _standard deviation_.
 
+## Power BI Dashboard
+After data cleaning, it was time to present the insights. I added multiple charts which showed trends of salary in different countries. I limited the row count of each variable in charts to be more than or equal to 15. This ensured that the analysis was not effected by outliers.
+![](dashboard.PNG)
+
 ## How to use
 - Download the R script, power bi dashboard and the excel sheet
 - make sure all the files are in a same folder
 - In power bi dashboard, right click _table_ from data pane
 - go to _change source_ and type in the new directory
-
-## Power BI Dashboard
-After data cleaning, it was time to present the insights. I added multiple charts which showed trends of salary in different countries. I limited the row count of each variable in charts to be more than or equal to 15. This ensured that the analysis was not effected by outliers.
-![](dashboard.PNG)
