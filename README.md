@@ -3,7 +3,7 @@
 1. [Introduction](https://github.com/masudsajid/Salary-Dataset-Analysis#introduction)
 3. [Understanding the dataset](https://github.com/masudsajid/Salary-Dataset-Analysis#understanding-the-dataset)
 4. [Problem statement](https://github.com/masudsajid/Salary-Dataset-Analysis#problem-statement)
-5. [Skill/ concepts demonstrated](https://github.com/masudsajid/Salary-Dataset-Analysis#skill-concepts-demonstrated)
+5. [Skills/ concepts demonstrated](https://github.com/masudsajid/Salary-Dataset-Analysis#skills-concepts-demonstrated)
 6. [Modelling](https://github.com/masudsajid/Salary-Dataset-Analysis#modelling)
 7. [Data cleaning in RStudio](https://github.com/masudsajid/Salary-Dataset-Analysis#data-cleaning-in-rstudio)
 8. [Power BI Dashboard](https://github.com/masudsajid/Salary-Dataset-Analysis#power-bi-dashboard)
@@ -29,7 +29,7 @@ So let’s take some of the mystery out of salaries. The data is a Salary Survey
 5. How do factors like race and education level correlate with salary?
 6. Is there a “sweet spot” total work experience vs years in the specific field?
 
-## Skill/ concepts demonstrated
+## Skills/ concepts demonstrated
 - Power BI
 - RStudio
 - Data Cleaning
