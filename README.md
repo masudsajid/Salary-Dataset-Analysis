@@ -1,4 +1,7 @@
 # Salary Dataset Analysis
+
+![](mainpage.PNG)
+
 ## Table of contents :clipboard:
 1. [Introduction](https://github.com/masudsajid/Salary-Dataset-Analysis#introduction)
 3. [Understanding the dataset](https://github.com/masudsajid/Salary-Dataset-Analysis#understanding-the-dataset)
@@ -9,7 +12,6 @@
 8. [Power BI Dashboard](https://github.com/masudsajid/Salary-Dataset-Analysis#power-bi-dashboard)
 9. [How to use](https://github.com/masudsajid/Salary-Dataset-Analysis#how-to-use)
 
-![](mainpage.PNG)
 
 ## Introduction
 It’s hard to get real-world information about what jobs pay. Online salary websites are often inaccurate, and people can get weird when you ask them directly.
